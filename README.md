@@ -6,7 +6,7 @@
 > After the descriptions of all entities can be found the order in which the files were compiled. (STILL NOT DONE) 
 
 ## **Work distribution**
-### In order to divide the work among us, we as a first step carefully read the task and determined which blocks were needed, after that it proceeded quite "automatically" whenever someone had finished a specific block he would inform the other and inquire about what stage the other was at, in this way it was known what the next block was to be made and one could immediately start. 
+In order to divide the work among us, we as a first step carefully read the task and determined which blocks were needed, after that it proceeded quite "automatically" whenever someone had finished a specific block he would inform the other and inquire about what stage the other was at, in this way it was known what the next block was to be made and one could immediately start. 
 
 ## **Work distribution table**
 ### In the following list you can see who did which file (Block) of the projekt
