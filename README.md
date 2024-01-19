@@ -1,17 +1,23 @@
 # **RPN CALCULATOR BY STUDP7 AND BORGN1**
 ## **Projekt : rpn_calculator**
 ### In this file can be found a general description of the project for the rpn calculator described using VHDL 
-> As first you will find instruction on how to compile and use the rpn calculator on the Leguan board 
+> As first you will find information about the state of the projekt and how to use the use the rpn calculator on your leguan board 
 
 > Second you can read how the work as been distributed inside the group (Who did what)
 
-> Last but not least for every file you can find which block are included, a diagram, a port table, a signal table, process and if any instantiations.
- 
+> Last but not least for every file you can find which block are included, a diagram, a port table, a signal table, process and, if any, instantiations.
+
+## **State of the projekt** 
+After having exectuded the test searching to recreate every illegal operation in order to see the reaction of our calculator and having executed normal calculation to verify if the result were correct we can say that the projekt is fully functional and can be used without any problem. 
+
+## **Getting started with the RPN calculator**
+In order to use the RPN calculator you just have to upload to the leguan Board using Quartus Prime and connenct the PMOD keypad. After have done that you will immediatly be able to use the rpn calculator on your leguan board.
+
 ## **Work distribution**
 In order to divide the work among us, we as a first step carefully read the task and determined which blocks were needed, after that it proceeded quite "automatically" whenever someone had finished a specific block he would inform the other and inquire about what stage the other was at, in this way it was known what the next block was to be made and one could immediately start. 
 
 ## **Work distribution table**
-### In the following list you can see who did which file (Block) of the projekt
+### **In the following list you can see who did which file (Block) of the projekt**
 - rpn_calculator_top_leguan.vhdl  => GIVEN (MHT1)
 - RGBArrayColumnScanning.vhdl     => GIVEN (MHT1)
 - rpn_calculator_module.vhdl      => STUDP7
