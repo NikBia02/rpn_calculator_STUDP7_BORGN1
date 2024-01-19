@@ -1,10 +1,12 @@
 # **RPN CALCULATOR BY STUDP7 AND BORGN1**
-## **Projekt : INSERT PROJEKT NAME**
+## **Projekt : rpn_calculator**
 ### In this file can be found a general description of the project for the rpn calculator described using VHDL 
-> For every file you can find which block are included, a diagram, a port table, a signal table, process and if any instantiations.
+> As first you will find instruction on how to compile and use the rpn calculator on the Leguan board 
 
-> After the descriptions of all entities can be found the order in which the files were compiled. (STILL NOT DONE) 
+> Second you can read how the work as been distributed inside the group (Who did what)
 
+> Last but not least for every file you can find which block are included, a diagram, a port table, a signal table, process and if any instantiations.
+ 
 ## **Work distribution**
 In order to divide the work among us, we as a first step carefully read the task and determined which blocks were needed, after that it proceeded quite "automatically" whenever someone had finished a specific block he would inform the other and inquire about what stage the other was at, in this way it was known what the next block was to be made and one could immediately start. 
 
@@ -23,7 +25,7 @@ In order to divide the work among us, we as a first step carefully read the task
 - divider.vhd                     => STUDP7
 - calc.vhd                        => STUDP7
 - BIN_2_BCD.vhd                   => BORGN1
-- REAME.md                        => BORGN1
+- README.md                       => BORGN1
 
 # Entity: rpn_calculator_top_leguan 
 - **File**: rpn_calculator_top_leguan.vhdl
